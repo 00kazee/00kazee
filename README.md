@@ -1,4 +1,5 @@
 # <p align="center">Hi, I'm kazee 🌸</p>
+<p align="center"><sub><sup>Drop everything now!~</sup></sub></p>
 
 ![...](https://raw.githubusercontent.com/00kazee/00kazee/refs/heads/main/figgar.png)
 
