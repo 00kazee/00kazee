@@ -1,4 +1,4 @@
-# <p align="center">Hi, I'm kazee 🐬</p>
+# <p align="center">Hi, I'm kazee 🌸</p>
 
 ![...](https://raw.githubusercontent.com/00kazee/00kazee/refs/heads/main/figgar.png)
 
