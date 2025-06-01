@@ -13,7 +13,7 @@
 ## <p align="center">Facts about me</p>
 - I'm currently learning **C#** ✨
 - I enjoy Linux ricing, even though I barely use it 🌸
-
+- I listen to K-POP most of the time 🎧
 <br><br>
 
 ## <p align="center">Languages and Frameworks</p>
