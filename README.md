@@ -10,7 +10,7 @@
 
 <br>
 
-## Facts about me
+## <p align="center">Facts about me</p>
 - I'm currently learning C# ✨
 - I enjoy Linux ricing, even though I barely use it 🌸
 
