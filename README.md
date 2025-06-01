@@ -7,8 +7,8 @@
 
 <p align="center">Hiyaaa!! 👋, My name's kazee, though I think I already said it. I'm a self-taught full-stack programmer. I specialise in **Web Development, UI design & TypeScript**. I've also used Dart and have experience to a certain level.</p>
 
-
-
+---
+<br><br>
 ## <p align="center">I have experience in these languages</p>
 <p align="center">
   <img src="ts.png" alt="TypeScript" width="30"/>
