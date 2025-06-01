@@ -10,6 +10,7 @@
 
 ---
 
+## Facts about me
 - I'm currently learning C# ✨
 - I enjoy Linux ricing, even though I barely use it 🌸
 
