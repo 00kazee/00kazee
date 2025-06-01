@@ -1,4 +1,4 @@
-<div align="center">
+
 ![...](https://raw.githubusercontent.com/00kazee/00kazee/refs/heads/main/dokoo.png)
 
 <img src="diggity"/>
@@ -12,4 +12,3 @@ Hiyaaa!! 👋, My name's kazee, though I think I already said it. I'm a self-tau
 <img src="php.png" alt="PHP" width="30"/>
 <img src="html.png" alt="HTML" width="30"/>
 <img src="dart.png" alt="Dart" width="30"/>
-</div>
