@@ -1,10 +1,9 @@
 
 ![...](https://raw.githubusercontent.com/00kazee/00kazee/refs/heads/main/dokoo.png)
----
+
 <img src="diggitarr.png"/>
-
 <br>
-
+---
 <p align="center">Hiyaaa!! 👋, My name's kazee, though I think I already said it. I'm a self-taught full-stack programmer. I specialise in <b>Web Development, UI design & TypeScript</b>. I've also used Dart and have experience to a certain level.</p>
 
 
