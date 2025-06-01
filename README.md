@@ -5,7 +5,8 @@
 
 ---
 
-<p align="center">Hiyaaa!! 👋, My name's kazee, though I think I already said it. I'm a self-taught full-stack programmer. I specialise in <b>Web Development & UI design</b>. My main language is <b>TypeScript</b>, though I've also used Dart and Python.</p>
+# <p align="center">Hii!! 👋, my name's kazee</p>
+<p align="center">I'm a self-taught full-stack programmer. I specialise in <b>Web Development & UI design</b>. My main language is <b>TypeScript</b>, though I've also used Dart and Python.</p>
 
 
 <br><br>
