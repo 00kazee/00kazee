@@ -1,12 +1,12 @@
 
-![...](https://raw.githubusercontent.com/00kazee/00kazee/refs/heads/main/dokoo.png)
+![...](https://raw.githubusercontent.com/00kazee/00kazee/refs/heads/main/BANNER.png)
 
 <!--![...](./diggitarr.png)-->
 
 ---
 
 # <p align="center">Hii!! 👋, my name's kazee</p>
-<p align="center">I'm a self-taught front-end developer. I specialise in <b>Web Development & UI design</b>. My main language is <b>TypeScript</b>, though I've also used Dart and Python.</p>
+<p align="center">I'm a self-taught front-end developer. I specialise in <b>Web Development & UI design</b>. My main language is <b>TypeScript</b>, though I also use Dart and Python. I have made discord bots, APIs and desktop apps. I'm no ex</p>
 
 <br>
 
