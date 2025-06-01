@@ -9,7 +9,7 @@
 
 
 <br><br>
-## <p align="center">I have experience in these languages</p>
+## <p align="center">Languages and Frameworks</p>
 <p align="center">
   <img src="ts.png" alt="TypeScript" width="30"/>
   <img src="python.webp" alt="Python" width="30"/>
