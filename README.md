@@ -8,6 +8,11 @@
 # <p align="center">Hii!! 👋, my name's kazee</p>
 <p align="center">I'm a self-taught front-end developer. I specialise in <b>Web Development & UI design</b>. My main language is <b>TypeScript</b>, though I've also used Dart and Python.</p>
 
+---
+
+- I'm currently learning C# ✨
+- I enjoy Linux ricing, even though I barely use it 🌸
+
 <br><br>
 
 ## <p align="center">Languages and Frameworks</p>
